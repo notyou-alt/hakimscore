@@ -1,0 +1,327 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e0e5ec;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  position: relative;
+}
+
+/* BORDER NEUMORPHISM DEKORATIF */
+.outer-border {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  border-radius: 40px;
+  background: #e0e5ec;
+  box-shadow: -10px -10px 20px #ffffff, 10px 10px 20px #9aa7bd;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  position: relative;
+  z-index: 10;
+}
+
+/* ---------- STAGGERED FADE-IN (LEBIH LAMBAT) ---------- */
+.fade-item {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: staggeredFadeIn 1s cubic-bezier(0.2, 0.9, 0.4, 1.1) forwards;
+}
+@keyframes staggeredFadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* HEADER */
+.neumorph-header {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.main-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #2c3e50;
+  text-shadow: -3px -3px 6px #ffffff, 3px 3px 6px #9aa7bd;
+}
+.subtitle {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #6b7f9b;
+  letter-spacing: 1px;
+  margin-top: 0.5rem;
+  text-shadow: -1px -1px 2px #ffffff, 1px 1px 2px #9aa7bd;
+}
+
+/* PROGRESS BAR (progress fill animasi 5 detik) */
+.progress-container {
+  width: 100%;
+  background: #e0e5ec;
+  border-radius: 3rem;
+  padding: 0.8rem 1.2rem;
+  box-shadow: -8px -8px 16px #ffffff, 8px 8px 16px #9aa7bd;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.progress-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #4a6a8a;
+  letter-spacing: 0.5px;
+}
+.progress-track {
+  flex: 2;
+  min-width: 150px;
+  height: 12px;
+  background: #e0e5ec;
+  border-radius: 3rem;
+  box-shadow: inset -3px -3px 6px #ffffff, inset 3px 3px 6px #9aa7bd;
+  overflow: hidden;
+}
+.progress-fill {
+  width: 0%;
+  height: 100%;
+  background: linear-gradient(90deg, #4a90e2, #6ba6ff);
+  border-radius: 3rem;
+  transition: width 5s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+  box-shadow: 0 0 4px rgba(74,144,226,0.5);
+}
+.progress-percent {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #4a90e2;
+  background: #e0e5ec;
+  padding: 0.2rem 0.7rem;
+  border-radius: 2rem;
+  box-shadow: inset -2px -2px 4px #ffffff, inset 2px 2px 4px #9aa7bd;
+}
+
+/* NEUMORPHISM SHADOWS */
+.neumorph-input, .neumorph-btn, .result-card, .error-card, .loading-card {
+  background-color: #e0e5ec;
+  box-shadow: -10px -10px 20px #ffffff, 10px 10px 20px #9aa7bd;
+  border: none;
+  transition: all 0.25s ease;
+}
+
+/* SEARCH */
+.search-card { width: 100%; }
+.input-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.neumorph-input {
+  flex: 2;
+  min-width: 180px;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #1e2a3a;
+  border-radius: 3rem;
+  outline: none;
+}
+.neumorph-input:focus {
+  box-shadow: -5px -5px 12px #ffffff, 5px 5px 12px #9aa7bd, inset 0 0 0 2px #4a90e2;
+}
+.neumorph-btn {
+  flex: 1;
+  min-width: 120px;
+  padding: 1rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #2c3e50;
+  border-radius: 3rem;
+  cursor: pointer;
+}
+.neumorph-btn:active {
+  box-shadow: inset -6px -6px 12px #ffffff, inset 6px 6px 12px #9aa7bd;
+  transform: scale(0.97);
+}
+
+/* LOADING */
+.loading-card {
+  width: 100%;
+  border-radius: 2rem;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+}
+.neumorph-spinner {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #e0e5ec;
+  box-shadow: -8px -8px 16px #ffffff, 8px 8px 16px #9aa7bd;
+  animation: softPulse 1.4s ease-in-out infinite;
+  position: relative;
+}
+.neumorph-spinner::after {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  right: 12px;
+  bottom: 12px;
+  border-radius: 50%;
+  background: #e0e5ec;
+  box-shadow: inset -4px -4px 8px #ffffff, inset 4px 4px 8px #9aa7bd;
+  animation: softSpin 1.2s linear infinite;
+}
+@keyframes softPulse {
+  0% { transform: scale(0.96); opacity: 0.8; }
+  50% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(0.96); opacity: 0.8; }
+}
+@keyframes softSpin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.loading-text {
+  color: #4a6a8a;
+  font-weight: 500;
+}
+
+/* RESULT CARD */
+.result-card {
+  width: 100%;
+  animation: riseUp 0.6s ease-out;
+}
+.neumorph-floating {
+  box-shadow: -16px -16px 24px #ffffff, 16px 16px 24px #9aa7bd;
+  border-radius: 2rem;
+  padding: 1.8rem;
+  transition: transform 0.3s ease, box-shadow 0.3s;
+}
+.result-card:hover {
+  transform: translateY(-6px);
+  box-shadow: -20px -20px 30px #ffffff, 20px 20px 30px #9aa7bd;
+}
+@keyframes riseUp {
+  0% { opacity: 0; transform: translateY(30px) scale(0.96); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+.student-name {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1e2f3f;
+}
+.student-class {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #5f7f9e;
+  margin-top: 0.3rem;
+  border-left: 4px solid #4a90e2;
+  padding-left: 0.7rem;
+}
+.feedback-badge {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  background: #e0e5ec;
+  box-shadow: inset -2px -2px 5px #ffffff, inset 2px 2px 5px #9aa7bd;
+  text-align: center;
+  font-weight: 600;
+}
+.feedback-badge.excellent { color: #4a90e2; }
+.feedback-badge.great { color: #5f8f6f; }
+.feedback-badge.keep { color: #b0804a; }
+
+.scores-section {
+  margin-top: 1rem;
+}
+.scores-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.score-row {
+  background: #e0e5ec;
+  box-shadow: inset -4px -4px 8px #ffffff, inset 4px 4px 8px #9aa7bd;
+  border-radius: 1.5rem;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 0;
+  transform: translateY(12px);
+  animation: fadeInUp 0.5s ease forwards;
+}
+@keyframes fadeInUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+.subject {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+.score-count {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: #4a90e2;
+  background: #e0e5ec;
+  padding: 0.2rem 1rem;
+  border-radius: 2rem;
+  box-shadow: inset -2px -2px 5px #ffffff, inset 2px 2px 5px #9aa7bd;
+  min-width: 80px;
+  text-align: center;
+}
+
+/* ERROR */
+.error-card {
+  border-radius: 2rem;
+  padding: 1.5rem;
+  text-align: center;
+  animation: fadeSlide 0.4s ease;
+}
+.error-message {
+  color: #c76e6e;
+  font-weight: 500;
+}
+@keyframes fadeSlide {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* UTILS */
+.result-area, .error-area, .loading-area {
+  width: 100%;
+}
+@media (max-width: 540px) {
+  .main-title { font-size: 2rem; }
+  .student-name { font-size: 1.6rem; }
+  .score-count { font-size: 1.3rem; min-width: 65px; }
+  .progress-container { flex-direction: column; align-items: stretch; text-align: center; }
+  .progress-track { width: 100%; }
+  .outer-border { top: 10px; left: 10px; right: 10px; bottom: 10px; border-radius: 28px; }
+}

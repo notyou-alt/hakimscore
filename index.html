@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>SCORE PRO MAX</title>
+  <link rel="icon" type="image/svg+xml" href="hakim.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Border Neumorphism Dekoratif -->
+  <div class="outer-border"></div>
+
+  <div class="main-content">
+    <!-- HEADER (staggered lebih lambat) -->
+    <header class="neumorph-header fade-item" style="animation-delay: 0.2s">
+      <h1 class="main-title">SCORE PRO MAX</h1>
+      <p class="subtitle">by hakim ulinnuha</p>
+    </header>
+
+    <!-- PROGRESS BAR (kosong dari awal) -->
+    <div id="progressBarContainer" class="progress-container fade-item" style="animation-delay: 0.5s">
+      <div class="progress-label">Overall average score</div>
+      <div class="progress-track">
+        <div id="progressFill" class="progress-fill" style="width: 0%;"></div>
+      </div>
+      <div id="progressPercent" class="progress-percent">0%</div>
+    </div>
+
+    <!-- SEARCH CARD -->
+    <div class="search-card fade-item" style="animation-delay: 0.8s">
+      <div class="input-group">
+        <input type="text" id="studentId" class="neumorph-input" placeholder="Enter Student ID" autocomplete="off" inputmode="numeric">
+        <button id="searchBtn" class="neumorph-btn">Check</button>
+      </div>
+    </div>
+
+    <!-- LOADING STATE -->
+    <div id="loadingArea" class="loading-area" style="display: none;">
+      <div class="loading-card neumorph-soft">
+        <div class="neumorph-spinner"></div>
+        <p class="loading-text">Checking data...</p>
+      </div>
+    </div>
+
+    <!-- RESULT AREA -->
+    <div id="resultArea" class="result-area" style="display: none;">
+      <div class="result-card neumorph-floating">
+        <div class="student-info">
+          <h2 id="studentName" class="student-name">-</h2>
+          <p id="studentClass" class="student-class">-</p>
+        </div>
+        <div id="feedbackBadge" class="feedback-badge"></div>
+        <div class="scores-section">
+          <div class="scores-list" id="scoresList"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ERROR AREA -->
+    <div id="errorArea" class="error-area" style="display: none;">
+      <div class="error-card neumorph-soft">
+        <p class="error-message">⚠️ ID not found, please try again.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
