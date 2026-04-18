@@ -1678,5 +1678,943 @@
     "pelajaran": "Average score of Data Visualization assignments 8 to 13",
     "nama": "Solomon Haratius Yosaphat Hutasoit",
     "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 83445,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Darren Lincoln",
+    "nilai": 85
+  },
+  {
+    "kelas": "FL",
+    "ID": 92226,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Vincent Richie Coadry",
+    "nilai": 80
+  },
+  {
+    "kelas": "FL",
+    "ID": 93595,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Nicholas Andika Putra Danumulyo",
+    "nilai": 64
+  },
+  {
+    "kelas": "FL",
+    "ID": 97196,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Hendrykus Alois Lucyandro",
+    "nilai": 82
+  },
+  {
+    "kelas": "FL",
+    "ID": 98274,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Aldino Ananda Tikta",
+    "nilai": 66
+  },
+  {
+    "kelas": "FL",
+    "ID": 98358,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Meylani Alfatikha Eka Sandy",
+    "nilai": 84
+  },
+  {
+    "kelas": "FL",
+    "ID": 99163,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Marcello Gizbert",
+    "nilai": 68
+  },
+  {
+    "kelas": "FL",
+    "ID": 100863,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Ghiyats Nabil Rabbani",
+    "nilai": 75
+  },
+  {
+    "kelas": "FL",
+    "ID": 103231,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Devin Nathanael",
+    "nilai": 79
+  },
+  {
+    "kelas": "FL",
+    "ID": 107586,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Theofilius Martuado Arilo Rajagukguk",
+    "nilai": 83
+  },
+  {
+    "kelas": "FL",
+    "ID": 108837,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Alif Argha Putra",
+    "nilai": 83
+  },
+  {
+    "kelas": "FL",
+    "ID": 110267,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Alter Alfa Yas Lela",
+    "nilai": 70
+  },
+  {
+    "kelas": "FL",
+    "ID": 110698,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Muhammad Irsal Ginanjar",
+    "nilai": 86
+  },
+  {
+    "kelas": "FL",
+    "ID": 110833,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Muhammad Naufal Aulia",
+    "nilai": 76
+  },
+  {
+    "kelas": "FL",
+    "ID": 112181,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Alfonsus Ronaldy Hidayat",
+    "nilai": 93
+  },
+  {
+    "kelas": "FL",
+    "ID": 112392,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Rian Trisnawan",
+    "nilai": 92
+  },
+  {
+    "kelas": "FL",
+    "ID": 113399,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Justine Estevan Reksoatmodjo",
+    "nilai": 54
+  },
+  {
+    "kelas": "FL",
+    "ID": 113621,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Muhammad Hafiz Fadhail",
+    "nilai": 88
+  },
+  {
+    "kelas": "FL",
+    "ID": 113832,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Harun Al Rasyid",
+    "nilai": 73
+  },
+  {
+    "kelas": "FL",
+    "ID": 115504,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Sebastian Wolfgang Kleine Kaizer",
+    "nilai": 69
+  },
+  {
+    "kelas": "FL",
+    "ID": 115577,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Darrell Theodoreno Rioda",
+    "nilai": 92
+  },
+  {
+    "kelas": "FL",
+    "ID": 125119,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Jerald Valerian",
+    "nilai": 85
+  },
+  {
+    "kelas": "FL",
+    "ID": 127305,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Fauzan Nanda Hidayat",
+    "nilai": 90
+  },
+  {
+    "kelas": "FL",
+    "ID": 127459,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Amalia Maheswari Calista",
+    "nilai": 95
+  },
+  {
+    "kelas": "FL",
+    "ID": 127901,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Muhammad Irfan Prasetyo Ardana",
+    "nilai": 82
+  },
+  {
+    "kelas": "FL",
+    "ID": 128080,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Gabriela Zahrafani",
+    "nilai": 84
+  },
+  {
+    "kelas": "FL",
+    "ID": 130611,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Julytha David Michella",
+    "nilai": 89
+  },
+  {
+    "kelas": "FL",
+    "ID": 130949,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Jeovinno Aurel Putra Sugiharto",
+    "nilai": 86
+  },
+  {
+    "kelas": "FL",
+    "ID": 131640,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Kevin Alfiando",
+    "nilai": 87
+  },
+  {
+    "kelas": "FL",
+    "ID": 132792,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Hyde Trisnahadi",
+    "nilai": 78
+  },
+  {
+    "kelas": "FL",
+    "ID": 133120,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Ranita Ivana Kols",
+    "nilai": 85
+  },
+  {
+    "kelas": "FL",
+    "ID": 133309,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Revaldi Candra Sumarna",
+    "nilai": 78
+  },
+  {
+    "kelas": "FL",
+    "ID": 133422,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Rafael Pandu Wicaksono",
+    "nilai": 65
+  },
+  {
+    "kelas": "FL",
+    "ID": 133433,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Rachel Nayla Putri",
+    "nilai": 85
+  },
+  {
+    "kelas": "FL",
+    "ID": 133640,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Benedict Marvin Tabiat",
+    "nilai": 73
+  },
+  {
+    "kelas": "FL",
+    "ID": 134190,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Adithia Hidayat",
+    "nilai": 81
+  },
+  {
+    "kelas": "FL",
+    "ID": 134332,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Kevin Sadrakh Sitinjak",
+    "nilai": 58
+  },
+  {
+    "kelas": "FL",
+    "ID": 135626,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Tasya Amanda",
+    "nilai": 83
+  },
+  {
+    "kelas": "FL",
+    "ID": 135962,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Annisa Illiyina",
+    "nilai": 89
+  },
+  {
+    "kelas": "FL",
+    "ID": 139882,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Alaika Zulfa Al Azka",
+    "nilai": 81
+  },
+  {
+    "kelas": "FL",
+    "ID": 83445,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Darren Lincoln",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 92226,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Vincent Richie Coadry",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 93595,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Nicholas Andika Putra Danumulyo",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 97196,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Hendrykus Alois Lucyandro",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 98274,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Aldino Ananda Tikta",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 98358,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Meylani Alfatikha Eka Sandy",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 99163,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Marcello Gizbert",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 100863,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Ghiyats Nabil Rabbani",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 103231,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Devin Nathanael",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 107586,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Theofilius Martuado Arilo Rajagukguk",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 108837,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Alif Argha Putra",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 110267,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Alter Alfa Yas Lela",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 110698,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Muhammad Irsal Ginanjar",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 110833,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Muhammad Naufal Aulia",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 112181,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Alfonsus Ronaldy Hidayat",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 112392,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Rian Trisnawan",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 113399,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Justine Estevan Reksoatmodjo",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 113621,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Muhammad Hafiz Fadhail",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 113832,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Harun Al Rasyid",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 115504,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Sebastian Wolfgang Kleine Kaizer",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 115577,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Darrell Theodoreno Rioda",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 125119,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Jerald Valerian",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 127305,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Fauzan Nanda Hidayat",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 127459,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Amalia Maheswari Calista",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 127901,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Muhammad Irfan Prasetyo Ardana",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 128080,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Gabriela Zahrafani",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 130611,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Julytha David Michella",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 130949,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Jeovinno Aurel Putra Sugiharto",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 131640,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Kevin Alfiando",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 132792,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Hyde Trisnahadi",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 133120,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Ranita Ivana Kols",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 133309,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Revaldi Candra Sumarna",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 133422,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Rafael Pandu Wicaksono",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 133433,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Rachel Nayla Putri",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 133640,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Benedict Marvin Tabiat",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 134190,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Adithia Hidayat",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 134332,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Kevin Sadrakh Sitinjak",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 135626,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Tasya Amanda",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 135962,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Annisa Illiyina",
+    "nilai": 0
+  },
+  {
+    "kelas": "FL",
+    "ID": 139882,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Alaika Zulfa Al Azka",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 42113,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Yoska Otniel Simbolon",
+    "nilai": 66
+  },
+  {
+    "kelas": "GL",
+    "ID": 42304,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Michelle H. Manufandu Warbandido",
+    "nilai": 73
+  },
+  {
+    "kelas": "GL",
+    "ID": 67468,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "David Moses Mantiri Kalesaran",
+    "nilai": 85
+  },
+  {
+    "kelas": "GL",
+    "ID": 68148,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Matthew Sebastian Kusnandar",
+    "nilai": 89
+  },
+  {
+    "kelas": "GL",
+    "ID": 71806,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Muhammad Arasy Syahreza",
+    "nilai": 79
+  },
+  {
+    "kelas": "GL",
+    "ID": 71890,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Jason Jonathan",
+    "nilai": 67
+  },
+  {
+    "kelas": "GL",
+    "ID": 74763,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Richie Christian Tungadi",
+    "nilai": 88
+  },
+  {
+    "kelas": "GL",
+    "ID": 78651,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Darryl Pratama Iswahyudhi",
+    "nilai": 93
+  },
+  {
+    "kelas": "GL",
+    "ID": 89613,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Richie Rich Kennedy Zakaria",
+    "nilai": 77
+  },
+  {
+    "kelas": "GL",
+    "ID": 92186,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Nikolas Bentus Karya",
+    "nilai": 88
+  },
+  {
+    "kelas": "GL",
+    "ID": 99877,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "El Jalaluddin Raaqi",
+    "nilai": 62
+  },
+  {
+    "kelas": "GL",
+    "ID": 102396,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Pargonda Maryun",
+    "nilai": 85
+  },
+  {
+    "kelas": "GL",
+    "ID": 108360,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Filbert Rei Putra Raharjo",
+    "nilai": 76
+  },
+  {
+    "kelas": "GL",
+    "ID": 121450,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Herjuna Saputra Mahadana",
+    "nilai": 92
+  },
+  {
+    "kelas": "GL",
+    "ID": 129608,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Vico Moreno Hakim",
+    "nilai": 90
+  },
+  {
+    "kelas": "GL",
+    "ID": 134182,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Revelyne Nadya Maharani",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 134955,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Femi Sakti Mandiri",
+    "nilai": 88
+  },
+  {
+    "kelas": "GL",
+    "ID": 136270,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Nadine Febrianti",
+    "nilai": 89
+  },
+  {
+    "kelas": "GL",
+    "ID": 136276,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Zara Zenithalya",
+    "nilai": 68
+  },
+  {
+    "kelas": "GL",
+    "ID": 136771,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Ajeng Purnama Putri Melani",
+    "nilai": 67
+  },
+  {
+    "kelas": "GL",
+    "ID": 137214,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Calvin Okta Fitriyansah",
+    "nilai": 76
+  },
+  {
+    "kelas": "GL",
+    "ID": 139581,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Kesya Nanda Khairina",
+    "nilai": 73
+  },
+  {
+    "kelas": "GL",
+    "ID": 159857,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Ezequiel Emeraldo",
+    "nilai": 73
+  },
+  {
+    "kelas": "GL",
+    "ID": 10766,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "Geoffrey Raditya Kawinda",
+    "nilai": 79
+  },
+  {
+    "kelas": "GL",
+    "ID": 100865,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "razhib fauzul haq",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 76974,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "andre gamalion lingga tapani",
+    "nilai": 83
+  },
+  {
+    "kelas": "GL",
+    "ID": 116990,
+    "pelajaran": "Average score of Data Visualization assignments 1 to 6",
+    "nama": "dava alfarel kurniawan",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 42113,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Yoska Otniel Simbolon",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 42304,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Michelle H. Manufandu Warbandido",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 67468,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "David Moses Mantiri Kalesaran",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 68148,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Matthew Sebastian Kusnandar",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 71806,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Muhammad Arasy Syahreza",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 71890,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Jason Jonathan",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 74763,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Richie Christian Tungadi",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 78651,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Darryl Pratama Iswahyudhi",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 89613,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Richie Rich Kennedy Zakaria",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 92186,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Nikolas Bentus Karya",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 99877,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "El Jalaluddin Raaqi",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 102396,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Pargonda Maryun",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 108360,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Filbert Rei Putra Raharjo",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 121450,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Herjuna Saputra Mahadana",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 129608,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Vico Moreno Hakim",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 134182,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Revelyne Nadya Maharani",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 134955,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Femi Sakti Mandiri",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 136270,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Nadine Febrianti",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 136276,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Zara Zenithalya",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 136771,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Ajeng Purnama Putri Melani",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 137214,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Calvin Okta Fitriyansah",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 139581,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Kesya Nanda Khairina",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 159857,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Ezequiel Emeraldo",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 10766,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "Geoffrey Raditya Kawinda",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 100865,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "razhib fauzul haq",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 76974,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "andre gamalion lingga tapani",
+    "nilai": 0
+  },
+  {
+    "kelas": "GL",
+    "ID": 116990,
+    "pelajaran": "Average score of Data Visualization assignments 8 to 13",
+    "nama": "dava alfarel kurniawan",
+    "nilai": 0
   }
 ]
